@@ -133,22 +133,33 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   </a>
 </div>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Srajal Dwivedi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-  </a>
-</div>
 
 ## 🔭 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Srajald/project1">
+  <a href="https://github.com/aditya-kumar-25/Harvest.AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/Srajald/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=project2&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aditya-kumar-25/Harvest.AI">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+  </a>
+  <a href="https://harvest-ai-web.vercel.app/home" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="Live Demo"/>
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Srajald/Laptop-Price-Predictor">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+  </a>
+  <a href="https://project2-demo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo"/>
   </a>
 </div>
 
