@@ -179,10 +179,20 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   [View Publication](https://ieeexplore.ieee.org/document/10603343)
 </div>
 
-## �� Latest Blog Posts
+## 📝 Latest Blog Posts
 
-<div align="center">
-  <img src="https://medium.com/@srajaldwivedi2003/chatpharo-pharo-llm-api-ai-powered-conversations-in-pharo-7570d1136a4b" alt="Layout with last medium posts" />
+<div align="left">
+  <a href="https://medium.com/@srajaldwivedi2003/chatpharo-pharo-llm-api-ai-powered-conversations-in-pharo-7570d1136a4b" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
+  
+  ### ChatPharo: Pharo LLM API & AI-Powered Conversations in Pharo
+  
+  <img align="right" width="250" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5KIf12mcC3_NVbGzS7fFuA.jpeg" alt="ChatPharo Image"/>
+  
+  This blog post explores the integration of Large Language Models (LLMs) with the Pharo programming environment, demonstrating how to build AI-powered conversational interfaces. Learn about the implementation details, challenges faced, and practical applications of this innovative combination of technologies.
+  
+  [Read the full article on Medium](https://medium.com/@srajaldwivedi2003/chatpharo-pharo-llm-api-ai-powered-conversations-in-pharo-7570d1136a4b)
 </div>
 
 ---
