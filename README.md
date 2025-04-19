@@ -188,7 +188,6 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   
   ### ChatPharo: Pharo LLM API & AI-Powered Conversations in Pharo
   
-  <img align="right" width="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpharo.org%2F&psig=AOvVaw3wAND77o8A59E5C-74Zdrc&ust=1745189427551000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiChLCX5YwDFQAAAAAdAAAAABAE" alt="ChatPharo Image"/>
   
   This blog post explores the integration of Large Language Models (LLMs) with the Pharo programming environment, demonstrating how to build AI-powered conversational interfaces. Learn about the implementation details, challenges faced, and practical applications of this innovative combination of technologies.
   
