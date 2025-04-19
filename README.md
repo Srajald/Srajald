@@ -44,19 +44,19 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/work.png" width="20" height="20"/></td>
-    <td><strong>Intern</strong> @ <strong>AIREV</strong></td>
+    <td><strong>Software Engineer Intern</strong> @ <strong>AIREV</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/nasa.png" width="20" height="20"/></td>
-    <td><strong>Research Intern</strong> @ <strong>ISRO</strong></td>
+    <td><strong>Software Development and Research Intern</strong> @ <strong>ISRO</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/health-data.png" width="20" height="20"/></td>
-    <td><strong>Intern</strong> @ <strong>RNT Health Insights</strong></td>
+    <td><strong>ML/AI Research Intern</strong> @ <strong>RNT Health Insights</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/work.png" width="20" height="20"/></td>
-    <td><strong>Intern</strong> @ <strong>Miimansa</strong></td>
+    <td><strong>Software Engineer Intern</strong> @ <strong>Miimansa</strong></td>
   </tr>
 </table>
 
