@@ -163,10 +163,26 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   </a>
 </div>
 
-## 📝 Latest Blog Posts
+## 📚 Publications
+
+<div align="left">
+  <a href="https://ieeexplore.ieee.org/document/10603343" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee" alt="IEEE Published Paper"/>
+  </a>
+  
+  ### Optical Coherence Tomography Image Disease Detection Using Transfer Learning Techniques
+  
+  **Published at:** IEEE International Conference on Intelligent Computing, IoT and Communication Systems (ICIC3S-2024), IIIT Una
+  
+  **Abstract:** This research paper explores the application of transfer learning techniques for the detection of diseases in Optical Coherence Tomography (OCT) images, offering advanced methods for medical image analysis and diagnosis.
+  
+  [View Publication](https://ieeexplore.ieee.org/document/10603343)
+</div>
+
+## �� Latest Blog Posts
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=radical&username=Srajald Ec" alt="Layout with last medium posts" />
+  <img src="https://medium.com/@srajaldwivedi2003/chatpharo-pharo-llm-api-ai-powered-conversations-in-pharo-7570d1136a4b" alt="Layout with last medium posts" />
 </div>
 
 ---
