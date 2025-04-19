@@ -6,6 +6,8 @@
 
 I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.Tech in Electronics and Communication Engineering at NIT Jalandhar. With experience across multiple internships at reputed organizations, I've developed expertise in software development, machine learning, and AI solutions.
 
+> "Passionate about creating scalable solutions and turning complex problems into elegant interfaces."
+
 ## 💼 Experience
 
 - **Software Engineer Intern** @ **Clear (ClearTax)** _(Current)_
@@ -22,6 +24,9 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   - **Codeforces**: Pupil
   - **CodeChef**: 4-Star Coder
 - **ML/AI Solution Developer**
+- **1000+ Coding Questions** solved on LeetCode, HackerRank, and CodeForces
+- **15+ Projects Completed** including web applications, AI/ML solutions, and cloud deployments
+- **30+ Technologies Mastered** across various domains
 
 ## 🛠️ Tech Stack
 
@@ -55,13 +60,17 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
 
 ### Cloud & DevOps
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
 ### Data Science & ML
@@ -88,6 +97,15 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
+## 💻 Key Areas of Expertise
+
+- **Full Stack MERN Development**
+- **Cloud Infrastructure & Deployment**
+- **AI/ML Solutions**
+- **DevOps & CI/CD Pipelines**
+- **Data Structures & Algorithms**
+- **Problem Solving**
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -110,6 +128,9 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   <a href="https://www.youtube.com/channel/UCxxxx">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
+  <a href="https://showcase-bonanze.netlify.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio website" />
+  </a>
 </div>
 
 ## 🎵 Spotify Playing
@@ -120,16 +141,21 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   </a>
 </div>
 
+## 🔭 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Srajald/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/Srajald/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=project2&theme=radical" />
+  </a>
+</div>
+
 ## 📝 Latest Blog Posts
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=radical&username=Srajald Ec" alt="Layout with last medium posts" />
-</div>
-
-## 🎨 Portfolio
-
-<div align="center">
-  <img src="https://showcase-bonanze.netlify.app/?limit=4&theme=radical&username=Srajald Ec" alt="Portfolio Website" />
 </div>
 
 ---
