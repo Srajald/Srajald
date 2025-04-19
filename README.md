@@ -12,11 +12,11 @@
 - [Achievements](#-achievements)
 - [Tech Stack](#️-tech-stack)
 - [Key Areas of Expertise](#-key-areas-of-expertise)
-- [GitHub Stats](#-github-stats)
 - [Featured Projects](#-featured-projects)
 - [Publications](#-publications)
 - [Latest Blog Posts](#-latest-blog-posts)
 - [Connect with Me](#-connect-with-me)
+- [GitHub Stats](#-github-stats)
 
 ## 🚀 About Me
 
@@ -201,25 +201,6 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srajald&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajald&layout=compact&theme=radical&hide=html" alt="Top Languages" height="170" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajald&theme=radical" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Srajald&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajald&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
-
 ## 🔭 Featured Projects
 
 <div align="center">
@@ -297,6 +278,25 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   <a href="https://showcase-bonanze.netlify.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio website" />
   </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srajald&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajald&layout=compact&theme=radical&hide=html" alt="Top Languages" height="170" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajald&theme=radical" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Srajald&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajald&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
