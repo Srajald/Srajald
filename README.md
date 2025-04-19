@@ -109,8 +109,20 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srajald&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajald&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srajald&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajald&layout=compact&theme=radical&hide=html" alt="Top Languages" height="170" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajald&theme=radical" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Srajald&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+  <br/>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=Srajald&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🌐 Connect with Me
