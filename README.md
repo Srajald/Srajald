@@ -150,10 +150,10 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
 
 <div align="center">
   <a href="https://github.com/aditya-kumar-25/Harvest.AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-kumar-25&repo=Harvest.AI&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-kumar-25&repo=Harvest.AI&theme=radical" width="400" height="150" />
   </a>
   <a href="https://github.com/Srajald/Laptop-Price-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=Laptop-Price-Predictor&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srajald&repo=Laptop-Price-Predictor&theme=radical" width="400" height="150" />
   </a>
 </div>
 
