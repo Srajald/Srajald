@@ -217,7 +217,7 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
   
   <br/>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=Srajald&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajald&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🔭 Featured Projects
