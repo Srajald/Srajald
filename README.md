@@ -24,7 +24,7 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
 
 > "Passionate about creating scalable solutions and turning complex problems into elegant interfaces."
 
-<details>
+<details open>
 <summary>📌 More About Me</summary>
 <br>
 
@@ -148,7 +148,7 @@ I'm a passionate Software Engineer and ML/AI enthusiast currently pursuing my B.
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & IDEs</b></summary>
 <br>
 <div align="left">
